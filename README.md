@@ -1,7 +1,9 @@
 Instrucitons how to run tests
 
-1.Download the project code, preferably using git clone.
+1.Download the project code, preferably using git clone. 
+
 2.Download version 18 or latest version of OpenJDK and extract to Program Files>Java 
+
 3.-Open control panel 
   -Open Edit the system environment variable 
   -Click on environment variables
@@ -10,10 +12,14 @@ Instrucitons how to run tests
   -Add variable value -> path to jdk-18 folder and click ok
   -Within System variables section click on Path 
   -Click on new Button, add %JAVA_HOME%\bin and click ok 
+
 4.Download and install IntelliJ IDEA 
+
 5.Open IntelliJ IDEA
+
 6.Click on plugins 
    -Search for 'Cucumber for Java' and install it.
+
 7.Click on File->Open
 8.Navigate to extracted project folder
 9.Select folder and click OK.
