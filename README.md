@@ -5,9 +5,9 @@ Instrucitons how to run tests
 2.Download version 18 or latest version of OpenJDK and extract to Program Files>Java 
 
 3.-Open control panel 
-  -Open Edit the system environment variable 
-  -Click on environment variables
-  -Within System variables section click new
+  -Open Edit the system environment variable <br />
+  -Click on environment variables <br />
+  -Within System variables section click new <br />
   -Add new variable name -> JAVA_HOME
   -Add variable value -> path to jdk-18 folder and click ok
   -Within System variables section click on Path 
